@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandra-santomassimo-lutech&label=Profile views&color=0e75b6&style=flat" alt="alessandra-santomassimo-lutech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alessandra-santomassimo-lutech" alt="alessandra-santomassimo-lutech" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=alessandra-santomassimo-lutech" alt="alessandra-santomassimo-lutech" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
