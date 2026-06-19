@@ -2,14 +2,14 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandra-santomassimo-lutech&label=Profile views&color=0e75b6&style=flat" alt="alessandra-santomassimo-lutech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandra-san…ech&label=Profile%20views&color=0e75b6&style=flat" alt="alessandra-santomassimo-lutech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=alessandra-santomassimo-lutech" alt="alessandra-santomassimo-lutech" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/alessandra-santomassimo-lutech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="alessandra-santomassimo-lutech" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/a.santomassimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a.santomassimo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alessandra-santomassimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a.santomassimo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
