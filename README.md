@@ -2,7 +2,7 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandra-san…ech&label=Profile%20views&color=0e75b6&style=flat" alt="alessandra-santomassimo-lutech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alessandra-santomassimo-lutech&label=Profile%20views&color=0e75b6&style=flat" alt="alessandra-santomassimo-lutech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=alessandra-santomassimo-lutech" alt="alessandra-santomassimo-lutech" /></a> </p>
 
